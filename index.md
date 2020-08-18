@@ -10,7 +10,7 @@ Welcome to CS 5435: Security and Privacy Concepts in the Wild at Cornell Tech. T
 
 ### Piazza group
 
-Please use [**Piazza**]({{site.data.main.piazza}}) for all interactions regarding the class.
+Please use [**Piazza**]() for all interactions regarding the class.
 
 ###  Course Staff
 
@@ -22,7 +22,7 @@ Office hours:  Send an email in advance
 #### [**Congzheng Song**](http://www.cs.cornell.edu/~csong/) (TA)
 email: cs2296@cornell.edu
 
-Office hours: Thursdays 10am-11am, Bloomberg 367
+Office hours: TBD
 
 
 ## Important notes:
