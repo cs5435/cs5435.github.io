@@ -11,3 +11,5 @@ kramdown:
 permalink: none
 paginate_path: 'page:num'
 exclude: ['.gitignore', 'README.md', 'LICENSE.md', 'Gemfile']
+
+theme: jekyll-theme-cayman
