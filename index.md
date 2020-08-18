@@ -10,7 +10,7 @@ Welcome to CS 5435: Security and Privacy Concepts in the Wild at Cornell Tech. T
 
 ### Piazza group
 
-Please use [**Piazza**]() for all interactions regarding the class.
+Please use [**Piazza**]({{site.data.main.piazza}}) for all interactions regarding the class.
 
 ###  Course Staff
 
