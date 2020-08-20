@@ -34,12 +34,12 @@ email: cs2296@cornell.edu
 
 Office hours: TBD
 
-## Important notes:
+## Important notes
 
 If you are considering taking the class but are not enrolled yet, email the TA for the Zoom link for
 the first couple of lectures.
 
-### Academic Integrity
+### Academic integrity
 
 The utmost level of academic integrity is expected of all students.
 
