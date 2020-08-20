@@ -8,6 +8,16 @@ nav: Home
 
 Welcome to CS 5435: Security and Privacy Concepts in the Wild at Cornell Tech. This course will impart a technical and social understanding of how and why security and privacy matter, how to think adversarially, how (and how not) to design systems and products. Less attention will be paid to specific skills such as hacking, writing secure code, and security administration. Topics will include user authentication, cryptography, malware, behavioral economics in security, human factors in security, privacy and anonymity, side channels, decoys and deception, and adversarial modeling. We will explore these concepts by studying real-world systems and attacks, including Bitcoin, Stuxnet, retailer breaches, implantable medical devices, and health apps, and considering issues to come in personal genomics, virtual worlds, and autonomous vehicles.
 
+### Attendance
+
+Please see [**Canvas**]({{site.data.main.canvas}}) for the Zoom link to attend the lectures.
+The course is structured to have four sessions: Tuesdays and Thursdays 12 noon and 10 pm ET.
+Tuesday evening and Thursday morning will be live lectures; you are required to attend one of them and can watch the recording of the other.
+
+### Canvas
+
+We will use [**Canvas**]({{site.data.main.canvas}}) to distribute all assignments.
+
 ### Piazza group
 
 Please use [**Piazza**]({{site.data.main.piazza}}) for all interactions regarding the class.
@@ -24,10 +34,10 @@ email: cs2296@cornell.edu
 
 Office hours: TBD
 
-
 ## Important notes:
 
-None
+If you are considering taking the class but are not enrolled yet, email the TA for the Zoom link for
+the first couple of lectures.
 
 ### Academic Integrity
 
