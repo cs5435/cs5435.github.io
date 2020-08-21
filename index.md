@@ -10,7 +10,7 @@ Welcome to CS 5435: Security and Privacy Concepts in the Wild at Cornell Tech. T
 
 ### Attendance
 
-The course is structured to have <b>four sessions: Tuesdays and Thursdays 12 noon and 10 pm ET</b>.
+The course is structured to have <b>four sessions each week: Tuesdays and Thursdays 12 noon and 10 pm ET</b>.
 Please see [**Canvas**]({{site.data.main.canvas}}) for the Zoom link to attend the sessions.
 
 Tuesday 12n and Thursday 10p sessions will be live lectures; you are <b>required to attend</b> one of them and can watch the recording of the other.
