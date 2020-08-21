@@ -6,11 +6,11 @@ nav: Home
 
 ## Welcome to CS 5435
 
-Welcome to CS 5435: Security and Privacy Concepts in the Wild at Cornell Tech. This course will impart a technical and social understanding of how and why security and privacy matter, how to think adversarially, how (and how not) to design systems and products. Less attention will be paid to specific skills such as hacking, writing secure code, and security administration. Topics will include user authentication, cryptography, malware, behavioral economics in security, human factors in security, privacy and anonymity, side channels, decoys and deception, and adversarial modeling. We will explore these concepts by studying real-world systems and attacks, including Bitcoin, Stuxnet, retailer breaches, implantable medical devices, and health apps, and considering issues to come in personal genomics, virtual worlds, and autonomous vehicles.
+This course is a broad overview of modern computer security and digital privacy.  It aims to impart technical and social understanding of how and why security and privacy matter, how to think adversarially, and how (and how not) to design secure systems and products. Topics include authentication, Web and mobile security, network, OS, and low-level software security, elements of applied cryptography, privacy protection technologies, censorship resistance, and security and privacy of emerging platforms, illustrated by studying real-world systems and attacks. Key learning objectives include understanding the role of threat modeling in the design and evaluation of modern computing systems, how exploitation of computing systems works, and approaches to finding and remediating vulnerabilities.
 
 ### Attendance
 
-The course is structured to have <b>four sessions each week: Tuesdays and Thursdays 12 noon and 10 pm ET</b>.
+The course will have <b>four sessions each week: Tuesdays and Thursdays 12 noon and 10 pm ET</b>.
 Please see [**Canvas**]({{site.data.main.canvas}}) for the Zoom link to attend the sessions.
 
 Tuesday 12n and Thursday 10p sessions will be live lectures; you are <b>required to attend</b> one of them and can watch the recording of the other.
