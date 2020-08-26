@@ -8,6 +8,9 @@ nav: assignments
 
 Assignments are available on Canvas.  Please use Git to work on your projects.
 
+### Homework Template
+We encourage using the provided [LATEX template]({{site.url}}/assignments/template/main.tex) for short answer questions.
+
 ### Homework Schedule
 
 |      Name                 |           Topic                              |                Due Date            |
