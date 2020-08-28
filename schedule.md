@@ -24,7 +24,7 @@ nav: lectures
 <td align="right">1</td>
 <td align="left">8/27</td>
 <td align="left">Course overview.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/intro.pdf">slides</a></td>
 <td></td>
 </tr>
 
