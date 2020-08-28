@@ -9,7 +9,7 @@ nav: assignments
 Assignments are available on Canvas.  Please use Git to work on your projects.
 
 ### Homework Template
-You should submit your homework in Canvas as a PDF. 
+You should submit your homework in Canvas as a PDF along with any code files required by the assignments.  
 We encourage using the provided [LATEX template]({{site.url}}/assignments/template/main.tex) for short answer questions.
 
 ### Homework Schedule

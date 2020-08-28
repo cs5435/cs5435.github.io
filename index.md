@@ -16,6 +16,8 @@ Please see [**Canvas**]({{site.data.main.canvas}}) for the Zoom link to attend t
 Tuesday 12n and Thursday 10p sessions will be live lectures; you are <b>required to attend</b> one of them and can watch the recording of the other.
 Tuesday 10p and Thursday 12n sessions will be used for recitation, discussion, and Q&A.
 
+Video recordings can be found [**here**]({{site.data.main.video}})
+
 ### Canvas
 
 We will use [**Canvas**]({{site.data.main.canvas}}) to distribute all assignments.
@@ -34,7 +36,7 @@ Office hours:  Send an email in advance
 #### [**Congzheng Song**](http://www.cs.cornell.edu/~csong/) (TA)
 email: cs2296@cornell.edu
 
-Office hours: TBD
+Office hours: Thursdays 10am-11am ET / Send an email to schedule another time
 
 ## Important notes
 
