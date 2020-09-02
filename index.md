@@ -33,7 +33,7 @@ Office hours:  Send an email in advance
 #### [**Congzheng Song**](http://www.cs.cornell.edu/~csong/) (TA)
 email: cs2296@cornell.edu
 
-Office hours: Thursdays 10am-11am ET / Send an email to schedule another time
+Office hours: [zoom link](https://cornell.zoom.us/j/9670902372?pwd=Y1VpUFpvQTRXSEJBWU9jZFUzTkNmdz09) at Thursdays 10am-11am ET / Send an email to schedule another time
 
 ## Important notes
 
