@@ -40,7 +40,7 @@ nav: lectures
 <td align="right">2</td>
 <td align="left">9/3</td>
 <td align="left">Cryptographic hash functions.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/hash.pdf">slides</a></td>
 <td></td>
 </tr>
 
