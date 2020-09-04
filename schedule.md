@@ -32,7 +32,7 @@ nav: lectures
 <td align="right">2</td>
 <td align="left">9/1</td>
 <td align="left">Authentication: passwords, security questions, challenge-response.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/auth.pdf">slides</a></td>
 <td>Homework 1 released.</td>
 </tr>
 
