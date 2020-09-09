@@ -49,7 +49,7 @@ nav: lectures
 <td align="right">3</td>
 <td align="left">9/8</td>
 <td align="left">Authentication: biometrics.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/biometrics.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -57,7 +57,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Phishing</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/phishing.pdf">slides</a></td>
 <td></td>
 </tr>
 
