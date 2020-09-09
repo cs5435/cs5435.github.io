@@ -69,5 +69,21 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">4</td>
+<td align="left">9/17</td>
+<td align="left">Cross-site request forgery.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">5</td>
+<td align="left">9/22</td>
+<td align="left">Clickjacking.</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
