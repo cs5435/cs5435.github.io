@@ -54,6 +54,14 @@ nav: lectures
 </tr>
 
 <tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Phishing</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td align="right">3</td>
 <td align="left">9/10</td>
 <td align="left">Web security model.</td>
