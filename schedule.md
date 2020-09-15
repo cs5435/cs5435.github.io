@@ -65,7 +65,7 @@ nav: lectures
 <td align="right">3</td>
 <td align="left">9/10</td>
 <td align="left">Web security model.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webbrowser.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -73,7 +73,7 @@ nav: lectures
 <td align="right">4</td>
 <td align="left">9/15</td>
 <td align="left">Web authentication and session management.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webbrowser.pdf">slides</a></td>
 <td></td>
 </tr>
 
