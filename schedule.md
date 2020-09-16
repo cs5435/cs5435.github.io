@@ -72,15 +72,23 @@ nav: lectures
 <tr>
 <td align="right">4</td>
 <td align="left">9/15</td>
-<td align="left">Web authentication and session management.</td>
-<td><a href="{{ site.url }}/lectures/webbrowser.pdf">slides</a></td>
+<td align="left">Web security model (cont'd).</td>
+<td></td>
 <td></td>
 </tr>
 
 <tr>
 <td align="right">4</td>
 <td align="left">9/17</td>
-<td align="left">Cross-site request forgery.</td>
+<td align="left">Clickjacking and frame-busting</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Web authentication and session management</td>
 <td></td>
 <td></td>
 </tr>
@@ -88,7 +96,15 @@ nav: lectures
 <tr>
 <td align="right">5</td>
 <td align="left">9/22</td>
-<td align="left">Clickjacking.</td>
+<td align="left">Cross-site request forgery.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">5</td>
+<td align="left">9/24</td>
+<td align="left">Cross-site scripting.</td>
 <td></td>
 <td></td>
 </tr>
