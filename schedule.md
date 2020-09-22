@@ -81,7 +81,7 @@ nav: lectures
 <td align="right">4</td>
 <td align="left">9/17</td>
 <td align="left">Clickjacking and frame-busting</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/clickjack.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -89,7 +89,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Web authentication and session management</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webauth.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -97,7 +97,7 @@ nav: lectures
 <td align="right">5</td>
 <td align="left">9/22</td>
 <td align="left">Cross-site request forgery</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webauth.pdf">slides</a></td>
 <td></td>
 </tr>
 
