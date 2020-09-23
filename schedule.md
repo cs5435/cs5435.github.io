@@ -104,7 +104,49 @@ nav: lectures
 <tr>
 <td align="right">5</td>
 <td align="left">9/24</td>
+<td align="left">SQL injection</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td align="left">9/29</td>
 <td align="left">Cross-site scripting</td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Logic vulnerabilities in Web applications</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td align="left">10/1</td>
+<td align="left">TCP/IP attacks. Denial of service.</td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td align="right">7</td>
+<td align="left">10/6</td>
+<td align="left">BGP security.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">7</td>
+<td align="left">10/8</td>
+<td align="left">DNS security.</td>
 <td></td>
 <td></td>
 </tr>
