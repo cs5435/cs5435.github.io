@@ -129,7 +129,7 @@ nav: lectures
 <tr>
 <td align="right">6</td>
 <td align="left">10/1</td>
-<td align="left">TCP/IP attacks. Denial of service.</td>
+<td align="left">TCP/IP attacks and denial of service</td>
 <td></td>
 <td></td>
 </tr>
@@ -138,7 +138,7 @@ nav: lectures
 <tr>
 <td align="right">7</td>
 <td align="left">10/6</td>
-<td align="left">BGP security.</td>
+<td align="left">BGP security</td>
 <td></td>
 <td></td>
 </tr>
@@ -146,7 +146,7 @@ nav: lectures
 <tr>
 <td align="right">7</td>
 <td align="left">10/8</td>
-<td align="left">DNS security.</td>
+<td align="left">DNS security</td>
 <td></td>
 <td></td>
 </tr>
