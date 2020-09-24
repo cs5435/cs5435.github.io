@@ -10,8 +10,8 @@ This course is a broad overview of modern computer security and digital privacy.
 
 ### Attendance
 
-The course will have <b>four sessions each week: Tuesdays and Thursdays 12-12:50p and 10-10:50p ET</b>.  <u>The content is different in 
-all four sessions</u>.  Tuesday 12n and Thursday 10p are live lectures, Tuesday 10p and Thursday 12n are interactive recitations for deep dives into certain topics, extra material, and Q&A.
+The course will have <b>four sessions each week: Tuesdays and Thursdays 12-12:50p and 10-10:50p ET</b>.  The content is different in 
+all four sessions.  Tuesday 12n and Thursday 10p are live lectures, Tuesday 10p and Thursday 12n are interactive recitations for deep dives into certain topics, extra material, and Q&A.
 
 You are <b>required to attend</b> at least two sessions per week (see [**Canvas**]({{site.data.main.canvas}}) for the Zoom link) and can watch the [**video recordings**]({{site.data.main.video}}) of the sessions you did not to attend.
 
