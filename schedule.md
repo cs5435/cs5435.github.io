@@ -104,7 +104,7 @@ nav: lectures
 <tr>
 <td align="right">5</td>
 <td align="left">9/24</td>
-<td align="left">SQL injection</td>
+<td align="left">SQL injection and cross-site scripting</td>
 <td></td>
 <td></td>
 </tr>
@@ -112,7 +112,7 @@ nav: lectures
 <tr>
 <td align="right">6</td>
 <td align="left">9/29</td>
-<td align="left">Cross-site scripting</td>
+<td align="left">Defenses against cross-site scripting and post-XSS attacks</td>
 <td></td>
 <td></td>
 </tr>
