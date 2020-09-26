@@ -106,7 +106,7 @@ nav: lectures
 <td align="left">9/24</td>
 <td align="left">SQL injection and cross-site scripting (XSS)</td>
 <td><a href="{{ site.url }}/lectures/webapps.pdf">slides</a></td>
-<td></td>
+<td>Homework 2 released.</td>
 </tr>
 
 <tr>
