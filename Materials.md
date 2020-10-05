@@ -26,7 +26,7 @@ Weichselbaum et al. [**CSP Is Dead, Long Live CSP! On the Insecurity of Whitelis
 
 Zalewski. [**Postcards from the Post-XSS World**](https://lcamtuf.coredump.cx/postxss/).
 
-Stone. [**Next Generation Clickjacking**](https://www.contextis.com/media/downloads/Next_Generation_Clickjacking.pdf).
+Stone. [**Next Generation Clickjacking: New Attacks Against Framed Web Pages**](https://www.contextis.com/media/downloads/Next_Generation_Clickjacking.pdf).
 
 Rydstedt et al. [**Busting Frame Busting: a Study of Clickjacking Vulnerabilities on Popular Sites**](https://seclab.stanford.edu/websec/framebusting/framebust.pdf).
 
