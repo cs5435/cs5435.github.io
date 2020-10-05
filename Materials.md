@@ -6,6 +6,9 @@ nav: Materials
 
 ## Materials
 
+[**An Administrator’s Guide to Internet Password Research**](https://www.usenix.org/system/files/conference/lisa14/lisa14-paper-florencio.pdf)
+
+
 [**Beware of Finer-Grained Origins**](http://www.adambarth.com/papers/2008/jackson-barth-b.pdf)
 
 [**Robust Defenses for Cross-Site Request Forgery**](http://seclab.stanford.edu/websec/csrf/csrf.pdf)
