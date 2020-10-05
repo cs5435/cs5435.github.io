@@ -19,13 +19,17 @@ Anley. [**Advanced SQL Injection In SQL Server Applications**](https://www.cgise
 
 Klein. [**Cross Site Scripting Explained**](http://www.cs.cornell.edu/~shmat/courses/library/css.pdf).
 
+Weichselbaum et al. [**CSP Is Dead, Long Live CSP! On the Insecurity of Whitelists and the Future of Content Security Policy**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45542.pdf).
+
 Zalewski. [**Postcards from the Post-XSS World**](https://lcamtuf.coredump.cx/postxss/).
 
 Stone. [**Next Generation Clickjacking**](https://www.contextis.com/media/downloads/Next_Generation_Clickjacking.pdf).
 
+Rydstedt et al. [**Busting Frame Busting: a Study of Clickjacking Vulnerabilities on Popular Sites**](https://seclab.stanford.edu/websec/framebusting/framebust.pdf).
+
 Huang et al. [**Clickjacking: Attacks and Defenses**](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/clickjacking.pdf).
 
-Wang et al. [**How to Shop for Free Online**](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/caas-oakland-final.pdf).
+Wang et al. [**How to Shop for Free Online: Security Analysis of Cashier-as-a-Service Based Web Stores**](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/caas-oakland-final.pdf).
 
 
 Bernstein. [**SYN cookies**](http://cr.yp.to/syncookies.html).
