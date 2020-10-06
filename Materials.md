@@ -40,6 +40,10 @@ Bernstein. [**SYN cookies**](http://cr.yp.to/syncookies.html).
 
 daemon9 / route / infinity. [**IP Spoofing Demystified**](http://phrack.org/issues/48/14.html).
 
+Moore et al. [**Inferring Internet Denial-of-Service Activity**](https://cseweb.ucsd.edu/~savage/papers/UsenixSec01.pdf).
+
+Kumar et al. [**Exploiting Underlying Structure for Detailed Reconstruction of an Internet-scale Event**](http://www.icir.org/vern/papers/witty-imc05.pdf).
+
 Kaminsky. [**It's the End of the Cache as We Know It**](https://www.blackhat.com/presentations/bh-jp-08/bh-jp-08-Kaminsky/BlackHat-Japan-08-Kaminsky-DNS08-BlackOps.pdf).
 
 Bernstein. [**Breaking DNSSEC**](https://cr.yp.to/talks/2009.08.10/slides.pdf).
