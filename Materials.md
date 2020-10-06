@@ -6,11 +6,11 @@ nav: Materials
 
 ## Materials
 
-<b>Passwords</b>
+### Passwords
 
 Florêncio et al. [**An Administrator’s Guide to Internet Password Research**](https://www.usenix.org/system/files/conference/lisa14/lisa14-paper-florencio.pdf)
 
-<b>Web security</b>
+### Web security
 
 Jackson and Barth. [**Beware of Finer-Grained Origins**](http://www.adambarth.com/papers/2008/jackson-barth-b.pdf).
 
@@ -34,7 +34,7 @@ Huang et al. [**Clickjacking: Attacks and Defenses**](https://www.microsoft.com/
 
 Wang et al. [**How to Shop for Free Online: Security Analysis of Cashier-as-a-Service Based Web Stores**](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/caas-oakland-final.pdf).
 
-<b>Network protocols</b>
+### Network protocols
 
 Bernstein. [**SYN cookies**](http://cr.yp.to/syncookies.html).
 
