@@ -117,7 +117,6 @@ nav: lectures
 <td></td>
 </tr>
 
-
 <tr>
 <td align="right"></td>
 <td align="left"></td>
@@ -134,7 +133,6 @@ nav: lectures
 <td></td>
 </tr>
 
-
 <tr>
 <td align="right">7</td>
 <td align="left">10/6</td>
@@ -147,6 +145,14 @@ nav: lectures
 <td align="right">7</td>
 <td align="left">10/8</td>
 <td align="left">DNS security</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td align="left">10/13</td>
+<td align="left">No class (Fall Break)</td>
 <td></td>
 <td></td>
 </tr>
