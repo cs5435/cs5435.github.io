@@ -113,7 +113,7 @@ nav: lectures
 <td align="right">6</td>
 <td align="left">9/29</td>
 <td align="left">XSS defenses; post-XSS attacks</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webapps.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -121,7 +121,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Logic vulnerabilities in Web applications</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webapps.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -129,7 +129,7 @@ nav: lectures
 <td align="right">6</td>
 <td align="left">10/1</td>
 <td align="left">TCP/IP attacks and denial of service</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/netattacks.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -137,7 +137,7 @@ nav: lectures
 <td align="right">7</td>
 <td align="left">10/6</td>
 <td align="left">Network telescopes</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/telescopes.pdf">slides</a></td>
 <td></td>
 </tr>
 
