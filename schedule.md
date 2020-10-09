@@ -145,7 +145,7 @@ nav: lectures
 <td align="right">7</td>
 <td align="left">10/8</td>
 <td align="left">BGP security</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/bgp.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -153,7 +153,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">DNS security</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/dns.pdf">slides</a></td>
 <td></td>
 </tr>
 
