@@ -50,17 +50,17 @@ Bernstein. [**Breaking DNSSEC**](https://cr.yp.to/talks/2009.08.10/slides.pdf).
 
 ### Attacks on SSL/TLS
 
-Rizzo and Duong. [**CRIME**](https://docs.google.com/presentation/d/11eBmGiHbYcHR9gL5nDyZChu_-lCa2GizeuOfaLU2HOU/edit#slide=id.g1d134dff_1_222)
+Rizzo and Duong. [**CRIME**](https://docs.google.com/presentation/d/11eBmGiHbYcHR9gL5nDyZChu_-lCa2GizeuOfaLU2HOU/edit#slide=id.g1d134dff_1_222).
 
-Prado et al. [**BREACH**](https://media.blackhat.com/us-13/US-13-Prado-SSL-Gone-in-30-seconds-A-BREACH-beyond-CRIME-Slides.pdf)
+Prado et al. [**BREACH**](https://media.blackhat.com/us-13/US-13-Prado-SSL-Gone-in-30-seconds-A-BREACH-beyond-CRIME-Slides.pdf).
 
-Delignat-Lavaud. [**The BEAST Wins Again**](https://www.blackhat.com/docs/us-14/materials/us-14-Delignat-The-BEAST-Wins-Again-Why-TLS-Keeps-Failing-To-Protect-HTTP.pdf)
+Delignat-Lavaud. [**The BEAST Wins Again**](https://www.blackhat.com/docs/us-14/materials/us-14-Delignat-The-BEAST-Wins-Again-Why-TLS-Keeps-Failing-To-Protect-HTTP.pdf).
 
-Delignat-Lavaud and Bhargavan. [**Network-based Origin Confusion Attacks against HTTPS Virtual Hosting**](https://mitls.org/downloads/vhost_confusion.pdf)
+Delignat-Lavaud and Bhargavan. [**Network-based Origin Confusion Attacks against HTTPS Virtual Hosting**](https://mitls.org/downloads/vhost_confusion.pdf).
 
-Adrian. [**A Retrospective on the Use of Export Cryptography**](https://www.blackhat.com/docs/us-16/materials/us-16-Adrian-A-Retrospective-On-The-Use-of-Export-Cryptography.pdf)
+Adrian. [**A Retrospective on the Use of Export Cryptography**](https://www.blackhat.com/docs/us-16/materials/us-16-Adrian-A-Retrospective-On-The-Use-of-Export-Cryptography.pdf).
 
-Vanhoef and Van Goethem. [**HEIST**](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows.pdf)
+Vanhoef and Van Goethem. [**HEIST**](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows.pdf).
 
 
 
