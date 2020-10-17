@@ -47,3 +47,19 @@ Kumar et al. [**Exploiting Underlying Structure for Detailed Reconstruction of a
 Kaminsky. [**It's the End of the Cache as We Know It**](https://www.blackhat.com/presentations/bh-jp-08/bh-jp-08-Kaminsky/BlackHat-Japan-08-Kaminsky-DNS08-BlackOps.pdf).
 
 Bernstein. [**Breaking DNSSEC**](https://cr.yp.to/talks/2009.08.10/slides.pdf).
+
+### Attacks on SSL/TLS
+
+[**CRIME**](https://docs.google.com/presentation/d/11eBmGiHbYcHR9gL5nDyZChu_-lCa2GizeuOfaLU2HOU/edit#slide=id.g1d134dff_1_222)
+
+[**BREACH**](https://media.blackhat.com/us-13/US-13-Prado-SSL-Gone-in-30-seconds-A-BREACH-beyond-CRIME-Slides.pdf)
+
+[**The BEAST Wins Again**](https://www.blackhat.com/docs/us-14/materials/us-14-Delignat-The-BEAST-Wins-Again-Why-TLS-Keeps-Failing-To-Protect-HTTP.pdf)
+
+[**Export cryptography in TLS**](https://www.blackhat.com/docs/us-16/materials/us-16-Adrian-A-Retrospective-On-The-Use-of-Export-Cryptography.pdf)
+
+[**HEIST**](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows.pdf)
+
+
+
+
