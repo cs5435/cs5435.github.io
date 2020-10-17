@@ -173,5 +173,37 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">9</td>
+<td align="left">10/20</td>
+<td align="left">Padding-oracle attacks</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">9</td>
+<td align="left">10/22</td>
+<td align="left">Introduction to public-key cryptography</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td align="left">10/27</td>
+<td align="left">TLS</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td align="left">10/29</td>
+<td align="left">Certificates and PKI ecosystem</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
