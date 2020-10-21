@@ -169,7 +169,7 @@ nav: lectures
 <td align="right">8</td>
 <td align="left">10/15</td>
 <td align="left">Introduction to symmetric cryptography</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/symcrypt.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -177,7 +177,7 @@ nav: lectures
 <td align="right">9</td>
 <td align="left">10/20</td>
 <td align="left">Padding-oracle attacks</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/symcrypt.pdf">slides</a></td>
 <td></td>
 </tr>
 
