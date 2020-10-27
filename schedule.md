@@ -185,7 +185,7 @@ nav: lectures
 <td align="right">9</td>
 <td align="left">10/22</td>
 <td align="left">Introduction to public-key cryptography</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/pubcrypt.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -193,7 +193,7 @@ nav: lectures
 <td align="right">10</td>
 <td align="left">10/27</td>
 <td align="left">TLS</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/tls.pdf">slides</a></td>
 <td></td>
 </tr>
 
