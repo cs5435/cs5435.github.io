@@ -66,7 +66,7 @@ Vanhoef and Van Goethem. [**HEIST**](https://www.blackhat.com/docs/us-16/materia
 
 Aleph One. [**Smashing the Stack for Fun and Profit**](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf).
 
-Solar Designer. [**Getting around non-executable stack (and fix)**]](https://seclists.org/bugtraq/1997/Aug/63).
+Solar Designer. [**Getting around non-executable stack (and fix)**](https://seclists.org/bugtraq/1997/Aug/63).
 
 Roemer et al. [**Return-Oriented Programming: Systems, Languages, and Applications**](https://www.cs.utexas.edu/~hovav/dist/rop.pdf).
 
