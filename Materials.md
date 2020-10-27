@@ -62,6 +62,34 @@ Adrian. [**A Retrospective on the Use of Export Cryptography**](https://www.blac
 
 Vanhoef and Van Goethem. [**HEIST**](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows.pdf).
 
+### Memory attacks
+
+Aleph One. [**Smashing the Stack for Fun and Profit**](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf).
+
+Solar Designer. [**Getting around non-executable stack (and fix)**]](https://seclists.org/bugtraq/1997/Aug/63).
+
+Roemer et al. [**Return-Oriented Programming: Systems, Languages, and Applications**](https://www.cs.utexas.edu/~hovav/dist/rop.pdf).
+
+scut / team teso. [**Exploiting Format String Vulnerabilities**](https://cs155.stanford.edu/papers/formatstring-1.2.pdf).
+
+blexim. [**Basic Integer Overflows**](https://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/blexim.txt).
+
+[**Once Upon a free()**](http://phrack.org/issues/57/9.html).
+
+Michel "MaXX" Kaempf. [**Vudo - An object superstitiously believed to embody magical powers**](http://www.phrack.org/archives/issues/57/8.txt).
+
+Winterborn. [**Exploiting CVE-2014-0282**](https://research.nccgroup.com/wp-content/uploads/2020/07/cve-2014-0282.pdf).
+
+Sotirov. [**Heap Feng Shui in JavaScript**](https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf).
+
+Daniel et al. [**Engineering Heap Overflow Exploits with JavaScript**](https://www.usenix.org/legacy/event/woot08/tech/full_papers/daniel/daniel_html/index.html).
+
+Blazakis. [**Interpreter Exploitation**](https://www.usenix.org/legacy/events/woot10/tech/full_papers/Blazakis.pdf).
+
+Bittau et al. [**Hacking Blind**](https://www.scs.stanford.edu/brop/bittau-brop.pdf).
+
+
+
 
 
 
