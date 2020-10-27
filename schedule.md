@@ -198,9 +198,41 @@ nav: lectures
 </tr>
 
 <tr>
+<td align="right"></td>
+<td align="left"></td>
+<<td align="left">Certificates and PKI ecosystem</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td align="right">10</td>
 <td align="left">10/29</td>
-<td align="left">Certificates and PKI ecosystem</td>
+<td align="left">Mobile security</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<<td align="left">OS access control</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td align="left">11/3</td>
+<td align="left">Control hijacking attacks</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td align="left">11/5</td>
+<td align="left">Return-oriented programming</td>
 <td></td>
 <td></td>
 </tr>
