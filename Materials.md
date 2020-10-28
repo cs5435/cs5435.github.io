@@ -88,6 +88,8 @@ Blazakis. [**Interpreter Exploitation**](https://www.usenix.org/legacy/events/wo
 
 Bittau et al. [**Hacking Blind**](https://www.scs.stanford.edu/brop/bittau-brop.pdf).
 
+Burow et al. [**Control-Flow Integrity: Precision, Security, and Performance**](https://arxiv.org/pdf/1602.04056.pdf).
+
 
 
 
