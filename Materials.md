@@ -90,6 +90,15 @@ Bittau et al. [**Hacking Blind**](https://www.scs.stanford.edu/brop/bittau-brop.
 
 Burow et al. [**Control-Flow Integrity: Precision, Security, and Performance**](https://arxiv.org/pdf/1602.04056.pdf).
 
+### Finding vulnerabilities
+
+Aitel. [**The Hacker Strategy**](http://www.immunityinc.com/downloads/DaveAitel_TheHackerStrategy.pdf).
+
+Miller. [**Real World Fuzzing**](https://cs155.stanford.edu/papers/fuzzing.pdf).
+
+Manes et al. [**The Art, Science, and Engineering of Fuzzing: A Survey**](https://arxiv.org/pdf/1812.00140.pdf).
+
+Ashcraft and Engler. [**Using Programmer-Written Compiler Extensions to Catch Security Holes**](https://web.stanford.edu/~engler/sp-ieee-02.pdf).
 
 
 
