@@ -237,5 +237,29 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">12</td>
+<td align="left">11/10</td>
+<td align="left">Control-flow integrity</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td align="left">11/12</td>
+<td align="left">Program analysis and finding vulnerabilities</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td align="left">11/17</td>
+<td align="left">Sandboxing and confinement</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
