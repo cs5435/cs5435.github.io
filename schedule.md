@@ -261,5 +261,21 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">13</td>
+<td align="left">11/19</td>
+<td align="left">Virtualization security</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td align="left">11/24</td>
+<td align="left">Spectre and Meltdown</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
