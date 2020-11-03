@@ -277,5 +277,14 @@ nav: lectures
 <td></td>
 </tr>
 
+
+<tr>
+<td align="right">14</td>
+<td align="left">11/26</td>
+<td align="left">No class (Thanksgiving)</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
