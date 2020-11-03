@@ -100,7 +100,11 @@ Manes et al. [**The Art, Science, and Engineering of Fuzzing: A Survey**](https:
 
 Ashcraft and Engler. [**Using Programmer-Written Compiler Extensions to Catch Security Holes**](https://web.stanford.edu/~engler/sp-ieee-02.pdf).
 
+### Confinement, isolation, and sandboxing
 
+Garfinkel. [**Traps and Pitfalls: Practical Problems in System Call Interposition Based Security Tools**](https://cs155.stanford.edu/papers/traps.pdf).
 
+Watson. [**Exploiting Concurrency Vulnerabilities in System Call Wrappers**](http://www.watson.org/~robert/2007woot/).
 
+Tan. [**Principles and Implementation Techniques of Software-Based Fault Isolation**](http://www.cse.psu.edu/~gxt29/papers/sfi-final.pdf).
 
