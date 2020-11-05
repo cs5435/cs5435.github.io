@@ -201,7 +201,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <<td align="left">Certificates and PKI ecosystem</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/tls.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -209,7 +209,7 @@ nav: lectures
 <td align="right">10</td>
 <td align="left">10/29</td>
 <td align="left">Mobile security</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/mobile.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -217,7 +217,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <<td align="left">OS access control</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/os.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -225,7 +225,7 @@ nav: lectures
 <td align="right">11</td>
 <td align="left">11/3</td>
 <td align="left">Control hijacking attacks</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/memattacks.pdf">slides</a></td>
 <td></td>
 </tr>
 
