@@ -108,3 +108,18 @@ Watson. [**Exploiting Concurrency Vulnerabilities in System Call Wrappers**](htt
 
 Tan. [**Principles and Implementation Techniques of Software-Based Fault Isolation**](http://www.cse.psu.edu/~gxt29/papers/sfi-final.pdf).
 
+### Microarchitectural attacks
+
+Yarom and Falkner. [**FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack**](https://eprint.iacr.org/2013/448.pdf).
+
+Kocher et al. [**Spectre Attacks: Exploiting Speculative Execution**](https://spectreattack.com/spectre.pdf).
+
+Lipp et al. [**Meltdown: Reading Kernel Memory from User Space**](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf).
+
+Weisse et al. [**Foreshadow-NG: Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution**](https://foreshadowattack.eu/foreshadow-NG.pdf).
+
+Canella et al. [**Fallout: Leaking Data on Meltdown-resistant CPUs**](https://mdsattacks.com/files/fallout.pdf).
+
+Schwarz et al. [**ZombieLoad: Cross-Privilege-Boundary Data Sampling**](https://zombieloadattack.com/zombieload.pdf).
+
+
