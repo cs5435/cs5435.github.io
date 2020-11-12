@@ -246,8 +246,24 @@ nav: lectures
 </tr>
 
 <tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Stuxnet</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td align="right">12</td>
 <td align="left">11/12</td>
+<td align="left">Confinement and sandboxing</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td align="left">11/15</td>
 <td align="left">Program analysis and finding vulnerabilities</td>
 <td></td>
 <td></td>
@@ -256,7 +272,7 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">11/17</td>
-<td align="left">Sandboxing and confinement</td>
+<td align="left">Abstract interpretation and symbolic execution</td>
 <td></td>
 <td></td>
 </tr>
