@@ -258,7 +258,7 @@ nav: lectures
 <td align="left">11/17</td>
 <td align="left">Sandboxing and confinement</td>
 <td></td>
-<td>Homework 3 Due.</td>
+<td></td>
 </tr>
 
 <tr>
