@@ -226,7 +226,7 @@ nav: lectures
 <td align="left">11/3</td>
 <td align="left">Control hijacking attacks</td>
 <td><a href="{{ site.url }}/lectures/memattacks.pdf">slides</a></td>
-<td></td>
+<td>Homework 3 released.</td>
 </tr>
 
 <tr>
@@ -258,7 +258,7 @@ nav: lectures
 <td align="left">11/17</td>
 <td align="left">Sandboxing and confinement</td>
 <td></td>
-<td></td>
+<td>Homework 3 Due.</td>
 </tr>
 
 <tr>
