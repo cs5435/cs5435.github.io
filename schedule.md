@@ -278,9 +278,25 @@ nav: lectures
 </tr>
 
 <tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Virtualization security</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td align="right">13</td>
 <td align="left">11/19</td>
-<td align="left">Virtualization security</td>
+<td align="left">Spectre and Meltdown</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Web tracking and fingerprinting</td>
 <td></td>
 <td></td>
 </tr>
@@ -288,11 +304,18 @@ nav: lectures
 <tr>
 <td align="right">14</td>
 <td align="left">11/24</td>
-<td align="left">Spectre and Meltdown</td>
+<td align="left">Location tracking</td>
 <td></td>
 <td></td>
 </tr>
 
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Anonymity and censorship resistance</td>
+<td></td>
+<td></td>
+</tr>
 
 <tr>
 <td align="right">14</td>
