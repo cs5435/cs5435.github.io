@@ -233,7 +233,7 @@ nav: lectures
 <td align="right">11</td>
 <td align="left">11/5</td>
 <td align="left">Return-oriented programming</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/memprotect.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -241,7 +241,7 @@ nav: lectures
 <td align="right">12</td>
 <td align="left">11/10</td>
 <td align="left">Control-flow integrity</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/memprotect.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -249,7 +249,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Stuxnet</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/stuxnet.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -257,7 +257,7 @@ nav: lectures
 <td align="right">12</td>
 <td align="left">11/12</td>
 <td align="left">Confinement and sandboxing</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/confinement.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -265,7 +265,7 @@ nav: lectures
 <td align="right">12</td>
 <td align="left">11/15</td>
 <td align="left">Program analysis and finding vulnerabilities</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/findvuln.pdf">slides</a></td>
 <td></td>
 </tr>
 
