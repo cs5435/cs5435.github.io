@@ -290,7 +290,7 @@ nav: lectures
 <td align="left">11/19</td>
 <td align="left">Spectre and Meltdown</td>
 <td></td>
-<td></td>
+<td>Homework 4 released.</td>
 </tr>
 
 <tr>
