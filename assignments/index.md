@@ -19,4 +19,4 @@ We encourage using the provided [LATEX template]({{site.url}}/assignments/templa
 | [**HW 1**]                | Password                                     | {{ site.data.main.lab1_deadline }}    |
 | [**HW 2**]                | Web Security                                 | {{ site.data.main.lab2_deadline }}    |
 | [**HW 3**]                | Crypto                                       | {{ site.data.main.lab3_deadline }}    |
-| [**HW 4**]                | Buffer Overflow                              | {{ site.data.main.lab4_deadline }}    |
+| [**HW 4**]                | Smashing The Stack                           | {{ site.data.main.lab4_deadline }}    |
