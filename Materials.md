@@ -126,6 +126,6 @@ Schwarz et al. [**ZombieLoad: Cross-Privilege-Boundary Data Sampling**](https://
 
 Burszstein et al. [**OpenConflict: Preventing Real Time Map Hacks in Online Games**](https://elie.net/static/files/openconflict-preventing-real-time-map-hacks-in-online-games/openconflict-preventing-real-time-map-hacks-in-online-games-paper.pdf).
 
-Burszteins. [**I am a legend: Hacking Hearthstone with machine-learning**](https://www.youtube.com/watch?v=ao3P5QCrF_M)
+Burszteins. [**I am a legend: Hacking Hearthstone with machine-learning**](https://www.youtube.com/watch?v=ao3P5QCrF_M).
 
 Park et al. [**BlackMirror: Preventing Wallhacks in 3D Online FPS Games**](https://lifeasageek.github.io/papers/seonghyun-blackmirror.pdf).
