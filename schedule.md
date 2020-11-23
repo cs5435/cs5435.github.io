@@ -325,5 +325,46 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">15</td>
+<td align="left">12/1</td>
+<td align="left">Secure messaging</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Hacking games</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">15</td>
+<td align="left">12/3</td>
+<td align="left">Hacking smart speakers</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left"></td>
+<td align="left">Acoustic and optical side channels</td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td align="right">16</td>
+<td align="left">12/8</td>
+<td align="left">Ask me anything</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
