@@ -129,3 +129,12 @@ Burszstein et al. [**OpenConflict: Preventing Real Time Map Hacks in Online Game
 Burszteins. [**I am a legend: Hacking Hearthstone with machine-learning**](https://www.youtube.com/watch?v=ao3P5QCrF_M).
 
 Park et al. [**BlackMirror: Preventing Wallhacks in 3D Online FPS Games**](https://lifeasageek.github.io/papers/seonghyun-blackmirror.pdf).
+
+### Hacking smart speakers
+
+Carlini et al. [**Hidden Voice Commands**] (https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf).
+
+Zhang et al. [**DolphinAttack: Inaudible Voice Commands**] (https://acmccs.github.io/papers/p103-zhangAemb.pdf).
+
+Zhang et al. [**Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems**] (https://xianghang.me/zh/files/voice_assistant.pdf).
+
