@@ -130,7 +130,7 @@ Burszteins. [**I am a legend: Hacking Hearthstone with machine-learning**](https
 
 Park et al. [**BlackMirror: Preventing Wallhacks in 3D Online FPS Games**](https://lifeasageek.github.io/papers/seonghyun-blackmirror.pdf).
 
-### Hacking smart speakers
+### Hacking smart speakers and voice assistants
 
 Carlini et al. [**Hidden Voice Commands**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf).
 
