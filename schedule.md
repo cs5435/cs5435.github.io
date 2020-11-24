@@ -344,7 +344,7 @@ nav: lectures
 <tr>
 <td align="right">15</td>
 <td align="left">12/3</td>
-<td align="left">Hacking smart speakers</td>
+<td align="left">Hacking smart speakers and voice assistants</td>
 <td></td>
 <td></td>
 </tr>
