@@ -273,7 +273,7 @@ nav: lectures
 <td align="right">13</td>
 <td align="left">11/17</td>
 <td align="left">Abstract interpretation and symbolic execution</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/findvuln.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -281,7 +281,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Virtualization security</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/vm.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -289,7 +289,7 @@ nav: lectures
 <td align="right">13</td>
 <td align="left">11/19</td>
 <td align="left">Spectre and Meltdown</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/micro.pdf">slides</a></td>
 <td>Homework 4 released.</td>
 </tr>
 
@@ -297,7 +297,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Web tracking and fingerprinting</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webtrack.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -305,7 +305,7 @@ nav: lectures
 <td align="right">14</td>
 <td align="left">11/24</td>
 <td align="left">Location tracking</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/location.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -313,7 +313,7 @@ nav: lectures
 <td align="right"></td>
 <td align="left"></td>
 <td align="left">Anonymity and censorship resistance</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/surveillance.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -329,7 +329,7 @@ nav: lectures
 <td align="right">15</td>
 <td align="left">12/1</td>
 <td align="left">Secure messaging</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/signal.pdf">slides</a></td>
 <td></td>
 </tr>
 
