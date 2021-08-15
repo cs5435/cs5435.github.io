@@ -1,12 +1,12 @@
 course_name: 'Security and Privacy Concepts in the Wild'
 course_code: 'CS 5435'
-course_sem: 'Fall 2020'
+course_sem: 'Fall 2021'
 footer_notice: 'Cornell Tech'
-video: https://vod.video.cornell.edu/channel/channelid/178434582
-piazza: https://piazza.com/cornell/fall2020/cs5435/home
-canvas: https://canvas.cornell.edu/courses/19153
+video: 'TBD'
+slack: 'TBD'
+canvas: 'TBD'
 github: https://github.com/cs5435
-lab1_deadline: '9/10'
-lab2_deadline: '10/08'
-lab3_deadline: '11/17'
-lab4_deadline: '12/08'
+lab1_deadline: 'TBD'
+lab2_deadline: 'TBD'
+lab3_deadline: 'TBD'
+lab4_deadline: 'TBD'
