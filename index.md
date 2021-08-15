@@ -10,18 +10,16 @@ This course is a broad overview of modern computer security and digital privacy.
 
 ### Attendance
 
-The course will have <b>four sessions each week: Tuesdays and Thursdays 12-12:50p and 10-10:50p ET</b>.  The content is different in 
-all four sessions.  Tuesday 12n and Thursday 10p are live lectures, Tuesday 10p and Thursday 12n are interactive recitations for deep dives into certain topics, extra material, and Q&A.
-
-You are <b>required to attend</b> at least two sessions per week (see [**Canvas**]({{site.data.main.canvas}}) for the Zoom link) and can watch the [**video recordings**]({{site.data.main.video}}) of the sessions you did not to attend.
+The course will have two weekly sessions: <b>Monday and Wednesday, 5:55-7:10p ET</b>.  See [**Canvas**]({{site.data.main.canvas}}) for the Zoom link.  
+[**Video recordings**]({{site.data.main.video}}) TBD.
 
 ### Canvas
 
 We will use [**Canvas**]({{site.data.main.canvas}}) to distribute all assignments.
 
-### Piazza group
+### Slack
 
-Please use [**Piazza**]({{site.data.main.piazza}}) for all interactions regarding the class.
+Please use [**Slack**]({{site.data.main.slack}}) for all interactions regarding the class.
 
 ###  Course Staff
 
@@ -30,10 +28,13 @@ email: shmat@cs.cornell.edu
 
 Office hours:  Send an email in advance
 
-#### [**Congzheng Song**](http://www.cs.cornell.edu/~csong/) (TA)
-email: cs2296@cornell.edu
+#### [**Jialing Pei**](https://www.linkedin.com/in/jialing-pei-161597120) (TA)
+email: jp2475@cornell.edu
 
-Office hours: [zoom link](https://cornell.zoom.us/j/9670902372?pwd=Y1VpUFpvQTRXSEJBWU9jZFUzTkNmdz09) at Thursdays 10am-11am ET / Send an email to schedule another time
+#### [**Deepak Maram**](https://sites.google.com/view/deepak-maram/home) (half-TA)
+email: sm2686@cornell.edu
+
+Office hours: TBD
 
 ## Important notes
 
