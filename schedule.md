@@ -36,14 +36,6 @@ nav: lectures
 <td>Homework 1 released</td>
 </tr>
 
-  <tr>
-<td align="right">1</td>
-<td align="left">8/30</td>
-<td align="left">Course overview</td>
-<!-- <td><a href="{{ site.url }}/lectures/intro.pdf">slides</a></td> -->
-<td></td>
-</tr>
-
 <tr>
 <td align="right">2</td>
 <td align="left">9/6</td>
