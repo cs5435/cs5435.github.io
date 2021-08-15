@@ -33,7 +33,7 @@ nav: lectures
 <td align="left">9/1</td>
 <td align="left">Authentication: passwords, security questions, challenge-response, biometrics</td>
 <td></td>
-<td>Homework 1 released.</td>
+<td>Homework 1 released</td>
 </tr>
 
   <tr>
