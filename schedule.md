@@ -14,7 +14,7 @@ nav: lectures
 <th align="right">Week</th>
 <th align="left">Date</th>
 <th align="left">Topic</th>
-<th>Readings</th>
+<th>Notes</th>
 <th>Assignments</th>
 </tr>
 </thead>
