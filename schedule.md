@@ -48,7 +48,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">9/8</td>
-<td align="left">Authentication: biometrics.</td>
+<td align="left">Authentication: biometrics</td>
 <td></td>
 <td></td>
 </tr>
