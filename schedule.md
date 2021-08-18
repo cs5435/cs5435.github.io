@@ -64,6 +64,14 @@ nav: lectures
 <tr>
 <td align="right">3</td>
 <td align="left">9/15</td>
+<td align="left">TBD</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">4</td>
+<td align="left">9/20</td>
 <td align="left">Web security model</td>
 <td></td>
 <td></td>
