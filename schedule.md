@@ -32,7 +32,7 @@ nav: lectures
 <tr>
 <td align="right">1</td>
 <td align="left">9/1</td>
-<td align="left">Authentication: passwords, security questions, challenge-response, biometrics</td>
+<td align="left">Authentication: passwords, security questions, challenge-response</td>
 <td></td>
 <td>Homework 1 released</td>
 </tr>
@@ -48,7 +48,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">9/8</td>
-<td align="left">Cryptographic hash functions</td>
+<td align="left">Authentication: biometrics.</td>
 <td></td>
 <td></td>
 </tr>
