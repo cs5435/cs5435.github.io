@@ -3,8 +3,8 @@ course_code: 'CS 5435'
 course_sem: 'Fall 2021'
 footer_notice: 'Cornell Tech'
 video: 'TBD'
-slack: 'https://join.slack.com/t/cs5435fall2021/shared_invite/zt-uo7tiq77-2r4laEBHBLeF7yV~jOl3Pg'
-canvas: 'https://canvas.cornell.edu/courses/32330'
+slack: https://join.slack.com/t/cs5435fall2021/shared_invite/zt-uo7tiq77-2r4laEBHBLeF7yV~jOl3Pg
+canvas: https://canvas.cornell.edu/courses/32330
 github: https://github.com/cs5435
 lab1_deadline: 'TBD'
 lab2_deadline: 'TBD'
