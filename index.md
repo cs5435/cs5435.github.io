@@ -55,4 +55,3 @@ Academic Integrity Resources:
 
 * [Cornell University Code of Academic Integrity](http://cuinfo.cornell.edu/aic.cfm)
 * [Computer Science Department Code of Academic Integrity](http://www.cs.cornell.edu/undergrad/CSMajor#ai)
-* [Explanation of AI Proceedings](http://www.theuniversityfaculty.cornell.edu/AcadInteg/)
