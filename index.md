@@ -31,6 +31,8 @@ Office hours:  Send an email in advance
 #### [**Jialing Pei**](https://www.linkedin.com/in/jialing-pei-161597120) (TA)
 email: jp2475@cornell.edu
 
+Office hours: Wednesday, 2pm-3pm. Please join via this [**Zoom Link**](https://cornell.zoom.us/j/95497758006?pwd=cUUweGI3TDZBMERTUGQrYkoxcjZqdz09). Ping me on Slack if you need to schedule an in-person session.
+
 #### [**Deepak Maram**](https://sites.google.com/view/deepak-maram/home) (half-TA)
 email: sm2686@cornell.edu
 
