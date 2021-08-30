@@ -36,7 +36,7 @@ Office hours: Wednesday, 2pm-3pm. Please join via this [**Zoom Link**](https://c
 #### [**Deepak Maram**](https://sites.google.com/view/deepak-maram/home) (half-TA)
 email: sm2686@cornell.edu
 
-Office hours: TBD
+Office hours: Thursday, 11am-12pm. Please join via this [**Zoom Link**](https://cornell.zoom.us/j/9769474395?pwd=cG4rSmRtVGY0VHBOYis0RjdGUHF6Zz09).
 
 ## Important notes
 
