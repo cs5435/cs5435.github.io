@@ -11,7 +11,7 @@ This course is a broad overview of modern computer security and digital privacy.
 ### Attendance
 
 The course will have two weekly sessions: <b>Monday and Wednesday, 5:55-7:10p ET</b>.  <br>
-See [**Canvas**]({{site.data.main.canvas}}) for the Zoom link ([**video recordings**]({{site.data.main.video}}) TBD).
+See [**Canvas**]({{site.data.main.canvas}}) for the Zoom link.  For recordings of previous lectures, see Canvas -> Zoom -> Cloud recordings.
 
 ### Canvas
 
