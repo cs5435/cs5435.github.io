@@ -18,6 +18,8 @@ Schwenk et al. [**Same-Origin Policy: Evaluation in Modern Browsers**](https://w
 
 Barth et al. [**Robust Defenses for Cross-Site Request Forgery**](http://seclab.stanford.edu/websec/csrf/csrf.pdf).
 
+Abma. [**How To: Server-Side Request Forgery (SSRF)**](https://www.hackerone.com/application-security/how-server-side-request-forgery-ssrf).
+
 Anley. [**Advanced SQL Injection In SQL Server Applications**](https://www.cgisecurity.com/lib/advanced_sql_injection.pdf).
 
 Klein. [**Cross Site Scripting Explained**](http://www.cs.cornell.edu/~shmat/courses/library/css.pdf).
