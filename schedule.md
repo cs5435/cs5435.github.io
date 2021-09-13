@@ -88,7 +88,7 @@ nav: lectures
 <tr>
 <td align="right">5</td>
 <td align="left">9/27</td>
-<td align="left">Cross-site request forgery.</td>
+<td align="left">Confused deputy: cross-site request forgery and server-side request forgery.</td>
 <td></td>
 <td></td>
 </tr>
