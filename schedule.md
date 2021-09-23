@@ -120,7 +120,7 @@ nav: lectures
   <tr>
 <td align="right">7</td>
 <td align="left">10/11</td>
-<td align="left">No class</td>
+<td align="left">No class (Fall break).</td>
 <td></td>
 <td></td>
 </tr>
