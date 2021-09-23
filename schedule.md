@@ -116,6 +116,22 @@ nav: lectures
 <td></td>
 <td></td>
 </tr>
+  
+  <tr>
+<td align="right">7</td>
+<td align="left">10/11</td>
+<td align="left">No class</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">7</td>
+<td align="left">10/13</td>
+<td align="left">Attacks on BGP and DNS.</td>
+<td></td>
+<td></td>
+</tr>
 
 </tbody>
 </table>
