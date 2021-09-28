@@ -117,7 +117,7 @@ nav: lectures
 <td></td>
 </tr>
   
-  <tr>
+<tr>
 <td align="right">7</td>
 <td align="left">10/11</td>
 <td align="left">No class (Fall break).</td>
@@ -129,6 +129,46 @@ nav: lectures
 <td align="right">7</td>
 <td align="left">10/13</td>
 <td align="left">Attacks on BGP and DNS.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">8</td>
+<td align="left">10/18</td>
+<td align="left">Basics of symmetric cryptography.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">8</td>
+<td align="left">10/20</td>
+<td align="left">Padding-oracle attacks.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">9</td>
+<td align="left">10/25</td>
+<td align="left">Basics of public-key cryptography.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">9</td>
+<td align="left">10/27</td>
+<td align="left">TLS and HTTPS.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">10</td>
+<td align="left">11/1</td>
+<td align="left">Certificates and PKI ecosystem.</td>
 <td></td>
 <td></td>
 </tr>
