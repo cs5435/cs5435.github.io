@@ -104,9 +104,9 @@ nav: lectures
 <tr>
 <td align="right">6</td>
 <td align="left">10/4</td>
-<td align="left">Post-XSS attacks. Logic vulnerabilities in Web applications.</td>
+<td align="left">Logic vulnerabilities in Web applications.</td>
 <td></td>
-<td></td>
+<td>Homework 2 released</td>
 </tr>
   
 <tr>
@@ -154,7 +154,7 @@ nav: lectures
 <td align="left">10/25</td>
 <td align="left">Basics of public-key cryptography.</td>
 <td></td>
-<td></td>
+<td>Midterm released</td>
 </tr>
   
 <tr>
