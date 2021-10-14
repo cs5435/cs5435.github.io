@@ -96,7 +96,7 @@ nav: lectures
 <tr>
 <td align="right">5</td>
 <td align="left">9/29</td>
-<td align="left">SQL injection and cross-site scripting (XSS).</td>
+<td align="left">SQL injection and cross-site scripting.</td>
 <td></td>
 <td></td>
 </tr>
