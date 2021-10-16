@@ -172,6 +172,22 @@ nav: lectures
 <td></td>
 <td></td>
 </tr>
+  
+<tr>
+<td align="right">10</td>
+<td align="left">11/3</td>
+<td align="left">OS access control and isolation. Virtualization.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">11</td>
+<td align="left">11/8</td>
+<td align="left">Security on mobile devices.</td>
+<td></td>
+<td></td>
+</tr>
 
 </tbody>
 </table>
