@@ -188,6 +188,54 @@ nav: lectures
 <td></td>
 <td></td>
 </tr>
+  
+<tr>
+<td align="right">11</td>
+<td align="left">11/10</td>
+<td align="left">Control hijacking attacks.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">12</td>
+<td align="left">11/15</td>
+<td align="left">Return-oriented programming.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">12</td>
+<td align="left">11/17</td>
+<td align="left">Control-flow integrity.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">13</td>
+<td align="left">11/22</td>
+<td align="left">TBD.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">13</td>
+<td align="left">11/24</td>
+<td align="left">No class (Thanksgiving).</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">14</td>
+<td align="left">11/29</td>
+<td align="left">Microarchitectural side channels. Spectre and Meltdown.</td>
+<td></td>
+<td></td>
+</tr>
 
 </tbody>
 </table>
