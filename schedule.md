@@ -170,7 +170,7 @@ nav: lectures
 <td align="left">11/1</td>
 <td align="left">Certificates and PKI ecosystem.</td>
 <td></td>
-<td></td>
+<td>Homework 3 released</td>
 </tr>
   
 <tr>
