@@ -216,7 +216,7 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">11/22</td>
-<td align="left">TBD.</td>
+<td align="left">Security of machine learning.</td>
 <td></td>
 <td></td>
 </tr>
@@ -233,6 +233,22 @@ nav: lectures
 <td align="right">14</td>
 <td align="left">11/29</td>
 <td align="left">Microarchitectural side channels. Spectre and Meltdown.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">14</td>
+<td align="left">12/1</td>
+<td align="left">End-to-end secure messaging.</td>
+<td></td>
+<td></td>
+</tr>
+  
+<tr>
+<td align="right">15</td>
+<td align="left">12/6</td>
+<td align="left">Onion routing, hidden services, censorship-resistant communications.</td>
 <td></td>
 <td></td>
 </tr>
