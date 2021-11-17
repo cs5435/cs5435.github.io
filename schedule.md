@@ -200,7 +200,7 @@ nav: lectures
 <tr>
 <td align="right">12</td>
 <td align="left">11/15</td>
-<td align="left">Return-oriented programming.</td>
+<td align="left">Defenses against memory attacks.</td>
 <td></td>
 <td></td>
 </tr>
@@ -208,9 +208,9 @@ nav: lectures
 <tr>
 <td align="right">12</td>
 <td align="left">11/17</td>
-<td align="left">Control-flow integrity.</td>
+<td align="left">Return-oriented programming. Control-flow integrity.</td>
 <td></td>
-<td></td>
+<td>Homework 4 released</td>
 </tr>
   
 <tr>
