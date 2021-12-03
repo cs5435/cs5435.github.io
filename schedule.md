@@ -24,7 +24,7 @@ nav: lectures
 <td align="right">1</td>
 <td align="left">8/30</td>
 <td align="left">Course overview.</td>
-<!-- <td><a href="{{ site.url }}/lectures/intro.pdf">slides</a></td> -->
+<td><a href="{{ site.url }}/lectures/intro.pdf">slides</a></td>
 <td></td>
 <td></td>
 </tr>
@@ -33,7 +33,7 @@ nav: lectures
 <td align="right">1</td>
 <td align="left">9/1</td>
 <td align="left">Authentication: passwords, security questions.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/auth.pptx">slides</a></td>
 <td>Homework 1 released</td>
 </tr>
 
