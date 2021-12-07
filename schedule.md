@@ -249,7 +249,7 @@ nav: lectures
 <td align="right">15</td>
 <td align="left">12/6</td>
 <td align="left">Onion routing, hidden services, censorship-resistant communications.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/tor.pptx">slides</a></td>
 <td></td>
 </tr>
 
