@@ -10,8 +10,7 @@ This course is a broad overview of modern computer security and digital privacy.
 
 ### Attendance
 
-The course will have two weekly sessions: <b>Monday and Wednesday, 5:55-7:10p ET</b>.  <br>
-See [**Canvas**]({{site.data.main.canvas}}) for the Zoom link.  For recordings of previous lectures, see Canvas -> Zoom -> Cloud recordings.
+The course will have two weekly sessions: <b>Monday and Wednesday, 2:45-4:00p ET in Tata Innovation Center Room 141X</b>.
 
 ### Canvas
 
@@ -28,20 +27,10 @@ email: shmat@cs.cornell.edu
 
 Office hours:  Send an email in advance
 
-#### [**Jialing Pei**](https://www.linkedin.com/in/jialing-pei-161597120) (TA)
-email: jp2475@cornell.edu
+#### [**Marina Bohuk**](https://www.cs.cornell.edu/~marina/) (TA)
+email: marina@cs.cornell.edu
 
-Office hours: Wednesday, 3pm-4pm. Please join via this [**Zoom Link**](https://cornell.zoom.us/j/95497758006?pwd=cUUweGI3TDZBMERTUGQrYkoxcjZqdz09). Ping me on Slack if you need to schedule an in-person session.
-
-#### [**Deepak Maram**](https://sites.google.com/view/deepak-maram/home) (half-TA)
-email: sm2686@cornell.edu
-
-Office hours: Thursday, 11am-12pm. Please join via this [**Zoom Link**](https://cornell.zoom.us/j/9769474395?pwd=cG4rSmRtVGY0VHBOYis0RjdGUHF6Zz09).
-
-## Important notes
-
-If you are considering taking the class but are not enrolled yet, email the TA for the Zoom link for
-the first couple of lectures.
+Office hours: TBA. Please join via this [**Zoom Link**](https://cornell.zoom.us/my/mbohuk). Ping me on Slack if you have questions outside of that time.
 
 ### Academic integrity
 
