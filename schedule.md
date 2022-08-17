@@ -56,7 +56,7 @@ nav: lectures
 <tr>
 <td align="right">3</td>
 <td align="left">9/5</td>
-<td align="left">Labor day</td>
+<td align="left">No class (Labor day)</td>
 <td></td>
 <td></td>
 <td></td>
