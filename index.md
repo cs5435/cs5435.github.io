@@ -30,7 +30,7 @@ Office hours:  Send an email in advance
 #### [**Marina Bohuk**](https://www.cs.cornell.edu/~marina/) (TA)
 email: marina@cs.cornell.edu
 
-Office hours: Mondays 11am-12pm. Please join via this [**Zoom Link**](https://cornell.zoom.us/my/mbohuk). Ping me on Slack if you have questions outside of that time.
+Office hours: TBA. Please join via this [**Zoom Link**](https://cornell.zoom.us/my/mbohuk). Ping me on Slack if you have questions outside of that time.
 
 ### Academic integrity
 
