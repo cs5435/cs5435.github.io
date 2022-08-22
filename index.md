@@ -25,12 +25,12 @@ Please use [**Slack**]({{site.data.main.slack}}) for all interactions regarding 
 #### [**Vitaly Shmatikov**](http://www.cs.cornell.edu/~shmat/) (Instructor)  
 email: shmat@cs.cornell.edu
 
-Office hours:  Send an email in advance
+Office hours: message me on Slack
 
 #### [**Marina Bohuk**](https://www.cs.cornell.edu/~marina/) (TA)
 email: marina@cs.cornell.edu
 
-Office hours: TBA. Please join via this [**Zoom Link**](https://cornell.zoom.us/my/mbohuk). Ping me on Slack if you have questions outside of that time.
+Office hours: Mondays, 11a-12n. Please join via this [**Zoom Link**](https://cornell.zoom.us/my/mbohuk). Ping me on Slack if you have questions outside of that time.
 
 ### Academic integrity
 
