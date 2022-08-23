@@ -83,7 +83,7 @@ nav: lectures
 <td align="left">9/14</td>
 <td align="left"></td>
 <td></td>
-<td></td>
+<td>Homework 1 due</td>
 </tr>
   
 <tr>
