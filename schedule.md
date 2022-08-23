@@ -32,7 +32,7 @@ nav: lectures
 <tr>
 <td align="right">1</td>
 <td align="left">8/24</td>
-<td align="left"></td>
+<td align="left">Authentication: passwords</td>
 <td></td>
 <td>Homework 1 released</td>
 </tr>
@@ -40,7 +40,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">8/29</td>
-<td align="left"></td>
+<td align="left">Authentication: biometrics, one-time passwords</td>
 <td></td>
 <td></td>
 </tr>
@@ -48,7 +48,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">8/31</td>
-<td align="left"></td>
+<td align="left">Phishing</td>
 <td></td>
 <td></td>
 </tr>
@@ -65,7 +65,7 @@ nav: lectures
 <tr>
 <td align="right">3</td>
 <td align="left">9/7</td>
-<td align="left"></td>
+<td align="left">Web authentication and session management</td>
 <td></td>
 <td></td>
 </tr>
@@ -73,7 +73,7 @@ nav: lectures
 <tr>
 <td align="right">4</td>
 <td align="left">9/12</td>
-<td align="left"></td>
+<td align="left">Web security model</td>
 <td></td>
 <td></td>
 </tr>
