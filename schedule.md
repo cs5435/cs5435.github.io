@@ -65,7 +65,7 @@ nav: lectures
 <tr>
 <td align="right">3</td>
 <td align="left">9/7</td>
-<td align="left">Web authentication and session management</td>
+<td align="left">Web security model</td>
 <td></td>
 <td></td>
 </tr>
@@ -73,7 +73,7 @@ nav: lectures
 <tr>
 <td align="right">4</td>
 <td align="left">9/12</td>
-<td align="left">Web security model</td>
+<td align="left">Web authentication and session management</td>
 <td></td>
 <td></td>
 </tr>
@@ -81,7 +81,7 @@ nav: lectures
  <tr>
 <td align="right">4</td>
 <td align="left">9/14</td>
-<td align="left"></td>
+<td align="left">Confused deputy: cross-site request forgery and server-side request forgery</td>
 <td></td>
 <td>Homework 1 due</td>
 </tr>
@@ -89,7 +89,7 @@ nav: lectures
 <tr>
 <td align="right">5</td>
 <td align="left">9/19</td>
-<td align="left"></td>
+<td align="left">Web application security: SQL injection and cross-site scripting</td>
 <td></td>
 <td></td>
 </tr>
