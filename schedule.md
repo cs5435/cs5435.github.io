@@ -40,7 +40,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">8/29</td>
-<td align="left">Authentication: biometrics, one-time passwords</td>
+<td align="left">Authentication: MFA, biometrics, one-time passwords</td>
 <td></td>
 <td></td>
 </tr>
