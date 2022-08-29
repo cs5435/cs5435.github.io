@@ -33,7 +33,7 @@ nav: lectures
 <td align="right">1</td>
 <td align="left">8/24</td>
 <td align="left">Authentication: passwords</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/auth.pdf">slides</a></td>
 <td>Homework 1 released</td>
 </tr>
 
@@ -41,7 +41,7 @@ nav: lectures
 <td align="right">2</td>
 <td align="left">8/29</td>
 <td align="left">Authentication: MFA, biometrics, one-time passwords</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/biometric.pdf">slides</a></td>
 <td></td>
 </tr>
   
