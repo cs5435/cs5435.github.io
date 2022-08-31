@@ -49,7 +49,7 @@ nav: lectures
 <td align="right">2</td>
 <td align="left">8/31</td>
 <td align="left">Phishing</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/phishing.pdf">slides</a></td>
 <td></td>
 </tr>
   
