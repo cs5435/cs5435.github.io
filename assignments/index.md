@@ -8,7 +8,7 @@ nav: assignments
 
 Assignments are available on Canvas.  Please use Git to work on your projects.
 
-### Late Policy
+### Late Submission Policy
 Each assignment is due at 11:59pm ET on its due date. 
 
 You have 3 late days to use any way you want. You can submit one assignment 3 days late, 3 assignments 1 day late, etc.
