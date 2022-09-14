@@ -82,7 +82,7 @@ nav: lectures
 <td align="right">4</td>
 <td align="left">9/14</td>
 <td align="left">Web authentication and session management</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webauth.pdf">slides</a></td>
 <td>Homework 1 due</td>
 </tr>
   
