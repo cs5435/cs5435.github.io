@@ -98,7 +98,7 @@ nav: lectures
 <td align="right">5</td>
 <td align="left">9/21</td>
 <td align="left">Web security: SQL injection and cross-site scripting</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webapps.pdf">slides</a></td>
 <td></td>
 </tr>
   
