@@ -90,8 +90,8 @@ nav: lectures
 <td align="right">5</td>
 <td align="left">9/19</td>
 <td align="left">Web security: confused deputy attacks -- cross-site and and server-side request forgery, clickjacking</td>
-<td></td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/webdeputy.pdf">slides</a></td>
+<td>Homework 2 released</td>
 </tr>
   
 <tr>
