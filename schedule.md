@@ -114,7 +114,7 @@ nav: lectures
 <td align="right">6</td>
 <td align="left">9/28</td>
 <td>Intro to symmetric cryptography: stream ciphers, block ciphers and modes, authenticated encryption</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/cryptsym.pdf">slides</a></td>
 <td></td>
 </tr>
   
@@ -122,7 +122,7 @@ nav: lectures
 <td align="right">7</td>
 <td align="left">10/3</td>
 <td>Intro to symmetric cryptography: padding-oracle attacks</td>
-<td></td>
+<td>(See 9/28)</td>
 <td></td>
 </tr>
   
