@@ -130,7 +130,7 @@ nav: lectures
 <td align="right">7</td>
 <td align="left">10/5</td>
 <td>Attacks on TCP/IP. Denial of service.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/netattacks.pdf">slides</a></td>
 <td></td>
 </tr>
   
@@ -146,7 +146,7 @@ nav: lectures
 <td align="right">8</td>
 <td align="left">10/12</td>
 <td>Security of BGP and DNS</td>
-<td></td>
+<td>(See 10/5)</td>
 <td></td>
 </tr>
   
@@ -155,7 +155,7 @@ nav: lectures
 <td align="left">10/17</td>
 <td></td>
 <td></td>
-<td></td>
+<td>Midterm released</td>
 </tr>
   
 <tr>
@@ -163,7 +163,7 @@ nav: lectures
 <td align="left">10/19</td>
 <td></td>
 <td></td>
-<td></td>
+<td>Midterm due</td>
 </tr>
   
 <tr>
