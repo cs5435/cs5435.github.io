@@ -146,7 +146,7 @@ nav: lectures
 <td align="right">8</td>
 <td align="left">10/12</td>
 <td>Security of BGP</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/bgp.pdf">slides</a></td>
 <td></td>
 </tr>
   
@@ -154,7 +154,7 @@ nav: lectures
 <td align="right">9</td>
 <td align="left">10/17</td>
 <td>Security of DNS</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/dns.pdf">slides</a></td>
 <td>Midterm released</td>
 </tr>
   
@@ -162,7 +162,7 @@ nav: lectures
 <td align="right">9</td>
 <td align="left">10/19</td>
 <td>Intro to public-key cryptography</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/cryptpub.pdf">slides</a></td>
 <td>Midterm due</td>
 </tr>
   
