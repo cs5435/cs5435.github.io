@@ -41,7 +41,7 @@ nav: lectures
 <td align="right">2</td>
 <td align="left">8/29</td>
 <td align="left">Authentication: MFA, biometrics, one-time passwords</td>
-<td><a href="{{ site.url }}/lectures/biometric.pdf">slides</a></td>
+<td><a href="{{ site.url }}/lectures/biometrics.pdf">slides</a></td>
 <td></td>
 </tr>
   
@@ -145,15 +145,15 @@ nav: lectures
 <tr>
 <td align="right">8</td>
 <td align="left">10/12</td>
-<td>Security of BGP and DNS</td>
-<td>(See 10/5)</td>
+<td>Security of BGP</td>
+<td></td>
 <td></td>
 </tr>
   
 <tr>
 <td align="right">9</td>
 <td align="left">10/17</td>
-<td></td>
+<td>Security of DNS</td>
 <td></td>
 <td>Midterm released</td>
 </tr>
@@ -161,7 +161,7 @@ nav: lectures
 <tr>
 <td align="right">9</td>
 <td align="left">10/19</td>
-<td></td>
+<td>Intro to public-key cryptography</td>
 <td></td>
 <td>Midterm due</td>
 </tr>
@@ -169,7 +169,7 @@ nav: lectures
 <tr>
 <td align="right">10</td>
 <td align="left">10/24</td>
-<td></td>
+<td>SSL/TLS and HTTPS</td>
 <td></td>
 <td></td>
 </tr>
@@ -177,7 +177,7 @@ nav: lectures
 <tr>
 <td align="right">10</td>
 <td align="left">10/26</td>
-<td></td>
+<td>PKI and certificates</td>
 <td></td>
 <td></td>
 </tr>
