@@ -171,7 +171,7 @@ nav: lectures
 <td align="left">10/24</td>
 <td>SSL/TLS and HTTPS</td>
 <td></td>
-<td></td>
+<td>Homework 3 released</td>
 </tr>
   
 <tr>
@@ -211,7 +211,7 @@ nav: lectures
 <td align="left">11/9</td>
 <td></td>
 <td></td>
-<td></td>
+<td>Homework 3 due</td>
 </tr>
   
 <tr>
@@ -268,6 +268,14 @@ nav: lectures
 <td></td>
 <td></td>
 <td></td>
+</tr>
+
+<tr>
+<td align="right">17</td>
+<td align="left">12/10</td>
+<td>No class</td>
+<td></td>
+<td>Final exam due</td>
 </tr>
 
 </tbody>
