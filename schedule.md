@@ -185,7 +185,7 @@ nav: lectures
 <tr>
 <td align="right">11</td>
 <td align="left">10/31</td>
-<td></td>
+<td>Memory corruption attacks</td>
 <td></td>
 <td></td>
 </tr>
@@ -193,7 +193,7 @@ nav: lectures
 <tr>
 <td align="right">11</td>
 <td align="left">11/2</td>
-<td></td>
+<td>Return-oriented programming</td>
 <td></td>
 <td></td>
 </tr>
@@ -201,7 +201,7 @@ nav: lectures
 <tr>
 <td align="right">12</td>
 <td align="left">11/7</td>
-<td></td>
+<td>Memory protection techniques</td>
 <td></td>
 <td></td>
 </tr>
