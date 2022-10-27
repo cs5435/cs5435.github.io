@@ -209,7 +209,7 @@ nav: lectures
 <tr>
 <td align="right">12</td>
 <td align="left">11/9</td>
-<td></td>
+<td>Isolation and confinement</td>
 <td></td>
 <td>Homework 3 due</td>
 </tr>
@@ -217,7 +217,7 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">11/14</td>
-<td></td>
+<td>Microarchitectural attacks: Spectre and Meltdown</td>
 <td></td>
 <td></td>
 </tr>
@@ -225,7 +225,7 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">11/16</td>
-<td></td>
+<td>Security on mobile devices</td>
 <td></td>
 <td></td>
 </tr>
