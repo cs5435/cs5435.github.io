@@ -233,7 +233,7 @@ nav: lectures
 <tr>
 <td align="right">14</td>
 <td align="left">11/21</td>
-<td></td>
+<td>Security and privacy of machine learning systems</td>
 <td></td>
 <td></td>
 </tr>
