@@ -170,7 +170,7 @@ nav: lectures
 <td align="right">10</td>
 <td align="left">10/24</td>
 <td>SSL/TLS and HTTPS</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/tls.pdf">slides</a></td>
 <td>Homework 3 released</td>
 </tr>
   
@@ -178,7 +178,7 @@ nav: lectures
 <td align="right">10</td>
 <td align="left">10/26</td>
 <td>PKI and certificates</td>
-<td></td>
+<td>(See 10/24)</td>
 <td></td>
 </tr>
   
@@ -186,7 +186,7 @@ nav: lectures
 <td align="right">11</td>
 <td align="left">10/31</td>
 <td>Memory corruption attacks</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/memattacks.pdf">slides</a></td>
 <td></td>
 </tr>
   
@@ -194,7 +194,7 @@ nav: lectures
 <td align="right">11</td>
 <td align="left">11/2</td>
 <td>Return-oriented programming</td>
-<td></td>
+<td>(See 10/31)</td>
 <td></td>
 </tr>
   
@@ -202,7 +202,7 @@ nav: lectures
 <td align="right">12</td>
 <td align="left">11/7</td>
 <td>Memory protection techniques</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/memprotect.pdf">slides</a></td>
 <td></td>
 </tr>
   
