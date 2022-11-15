@@ -210,7 +210,7 @@ nav: lectures
 <td align="right">12</td>
 <td align="left">11/9</td>
 <td>Isolation and confinement</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/isolation.pdf">slides</a></td>
 <td>Homework 3 due</td>
 </tr>
   
@@ -218,7 +218,7 @@ nav: lectures
 <td align="right">13</td>
 <td align="left">11/14</td>
 <td>Microarchitectural attacks: Spectre and Meltdown</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/micro.pdf">slides</a></td>
 <td></td>
 </tr>
   
