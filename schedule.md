@@ -249,7 +249,7 @@ nav: lectures
 <tr>
 <td align="right">15</td>
 <td align="left">11/28</td>
-<td></td>
+<td>Software analysis methods for finding vulnerabilities</td>
 <td></td>
 <td></td>
 </tr>
@@ -257,7 +257,7 @@ nav: lectures
 <tr>
 <td align="right">15</td>
 <td align="left">11/30</td>
-<td></td>
+<td>Anonymity networks, Tor, hidden services</td>
 <td></td>
 <td></td>
 </tr>
