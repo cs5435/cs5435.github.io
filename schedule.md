@@ -257,7 +257,7 @@ nav: lectures
 <tr>
 <td align="right">15</td>
 <td align="left">11/30</td>
-<td>Anonymity networks, Tor, hidden services</td>
+<td>Anonymity networks and onion routing</td>
 <td></td>
 <td></td>
 </tr>
@@ -265,7 +265,7 @@ nav: lectures
 <tr>
 <td align="right">16</td>
 <td align="left">12/5</td>
-<td></td>
+<td>Tor hidden services and "Dark Web", censorship-resistant communications</td>
 <td></td>
 <td></td>
 </tr>
