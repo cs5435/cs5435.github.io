@@ -226,7 +226,7 @@ nav: lectures
 <td align="right">13</td>
 <td align="left">11/16</td>
 <td>Security on mobile devices</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/mobile.pdf">slides</a></td>
 <td></td>
 </tr>
   
@@ -250,7 +250,7 @@ nav: lectures
 <td align="right">15</td>
 <td align="left">11/28</td>
 <td>Software analysis methods for finding vulnerabilities</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/findvuln.pdf">slides</a></td>
 <td></td>
 </tr>
 
@@ -258,7 +258,7 @@ nav: lectures
 <td align="right">15</td>
 <td align="left">11/30</td>
 <td>Anonymity networks and onion routing</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/onion.pdf">slides</a></td>
 <td></td>
 </tr>
 
