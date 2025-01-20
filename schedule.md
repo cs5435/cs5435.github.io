@@ -26,14 +26,12 @@ nav: lectures
 <td align="left">Introduction.</td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 
 <tr>
 <td align="right">1</td>
 <td align="left">1/23</td>
 <td align="left">User Authentication</td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
