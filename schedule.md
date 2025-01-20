@@ -24,7 +24,7 @@ nav: lectures
 <td align="right">1</td>
 <td align="left">1/21</td>
 <td align="left">Introduction.</td>
-<!-- <td><a href="{{ site.url }}/lectures/intro.pdf">slides</a></td> -->
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -33,8 +33,9 @@ nav: lectures
 <td align="right">1</td>
 <td align="left">1/23</td>
 <td align="left">User Authentication</td>
-<!-- <td><a href="{{ site.url }}/lectures/auth.pdf">slides</a></td> -->
-<!-- <td>Homework 1 released</td> -->
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 </tbody>
