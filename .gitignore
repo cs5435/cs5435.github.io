@@ -11,3 +11,5 @@ _site/
 *.blg
 *.log
 *.lock
+
+legacy
