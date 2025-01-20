@@ -10,7 +10,7 @@ This course is a broad overview of modern computer security and digital privacy.
 
 ### Attendance
 
-The course will have two weekly sessions: <b>Monday and Wednesday, 2:45-4:00p ET in Tata Innovation Center Room 141X</b>.
+The course will have two weekly sessions: <b>Tuesday and Thursday, 10:10-11:25a ET in Bloomberg Center Room 131</b>.
 
 ### Canvas
 
@@ -27,10 +27,15 @@ email: shmat@cs.cornell.edu
 
 Office hours: message me on Slack
 
-#### [**Marina Bohuk**](https://www.cs.cornell.edu/~marina/) (TA)
-email: marina@cs.cornell.edu
+#### **Collin Zhang** (TA)
+email: rz454@cornell.edu
 
-Office hours: Wednesdays, 11a-12n. Please join via this [**Zoom Link**](https://cornell.zoom.us/my/mbohuk?pwd=cUM1L3BlazcvY01ZRXlNNG90cHVVUT09). Message me on Slack if you have questions outside of that time.
+Office hours: TBA.
+
+#### [**Rishi Jha**](https://rishijha.com/) (TA)
+email: rjha@cs.cornell.edu
+
+Office hours: TBA.
 
 ### Academic integrity
 
