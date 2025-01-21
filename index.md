@@ -35,7 +35,7 @@ Office hours: TBA.
 #### [**Rishi Jha**](https://rishijha.com/) (TA)
 email: rjha@cs.cornell.edu
 
-Office hours: Thursdays 3-4p. Bloomberg 305 (or [Zoom link](https://cornell.zoom.us/j/92487878615?pwd=D0uENCY2Cv8ugVcROYkfobvixJf5B8.1) if announced on Slack).
+Office hours: Thursdays 3-4p. Bloomberg 305 (or [Zoom](https://cornell.zoom.us/j/92487878615?pwd=D0uENCY2Cv8ugVcROYkfobvixJf5B8.1) if announced on Slack).
 
 Wednesdays, 11a-12n. Please join via this Zoom Link. Message me on Slack if you have questions outside of that time.
 
