@@ -27,7 +27,7 @@ email: shmat@cs.cornell.edu
 
 Office hours: message me on Slack
 
-#### **Collin Zhang** (TA)
+#### [**Collin Zhang**](https://collinzrj.github.io/) (TA)
 email: rz454@cornell.edu
 
 Office hours: TBA.
