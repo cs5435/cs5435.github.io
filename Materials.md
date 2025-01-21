@@ -80,7 +80,7 @@ blexim. [**Basic Integer Overflows**](https://www.cs.utexas.edu/~shmat/courses/c
 
 Michel "MaXX" Kaempf. [**Vudo - An object superstitiously believed to embody magical powers**](http://www.phrack.org/archives/issues/57/8.txt).
 
-Winterborn. [**Exploiting CVE-2014-0282**](https://research.nccgroup.com/wp-content/uploads/2020/07/cve-2014-0282.pdf).
+Winterborn. [**Exploiting CVE-2014-0282**](materials/_cve-2014-0282.pdf).
 
 Sotirov. [**Heap Feng Shui in JavaScript**](https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf).
 
@@ -94,7 +94,7 @@ Burow et al. [**Control-Flow Integrity: Precision, Security, and Performance**](
 
 ### Finding vulnerabilities
 
-Aitel. [**The Hacker Strategy**](http://www.immunityinc.com/downloads/DaveAitel_TheHackerStrategy.pdf).
+Aitel. [**The Hacker Strategy**](materials/DaveAitel_TheHackerStrategy.pdf).
 
 Miller. [**Real World Fuzzing**](https://cs155.stanford.edu/papers/fuzzing.pdf).
 
