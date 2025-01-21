@@ -80,7 +80,7 @@ blexim. [**Basic Integer Overflows**](https://www.cs.utexas.edu/~shmat/courses/c
 
 Michel "MaXX" Kaempf. [**Vudo - An object superstitiously believed to embody magical powers**](http://www.phrack.org/archives/issues/57/8.txt).
 
-Winterborn. [**Exploiting CVE-2014-0282**](materials/_cve-2014-0282.pdf).
+Winterborn. [**Exploiting CVE-2014-0282**](materials/cve.pdf).
 
 Sotirov. [**Heap Feng Shui in JavaScript**](https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf).
 
