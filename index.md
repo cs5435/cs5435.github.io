@@ -30,7 +30,7 @@ Office hours: message me on Slack
 #### [**Collin Zhang**](https://collinzrj.github.io/) (TA)
 email: rz454@cornell.edu
 
-Office hours: TBA.
+Office hours: Wednesdays 1p. Bloomberg 260.
 
 #### [**Rishi Jha**](https://rishijha.com/) (TA)
 email: rjha@cs.cornell.edu
