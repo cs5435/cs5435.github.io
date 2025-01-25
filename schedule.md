@@ -39,7 +39,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">1/28</td>
-<td align="left">Authentication: MFA, biometrics, one-time passwords.</td>
+<td align="left">Authentication: MFA, single sign-on, one-time passwords.</td>
 <td></td>
 <td></td>
 </tr>
@@ -47,7 +47,7 @@ nav: lectures
 <tr>
 <td align="right">2</td>
 <td align="left">1/30</td>
-<td align="left">Phishing and social engineering.</td>
+<td align="left">Authentication: biometrics.</td>
 <td></td>
 <td></td>
 </tr>
