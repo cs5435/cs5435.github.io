@@ -56,7 +56,7 @@ nav: lectures
 <td align="right">3</td>
 <td align="left">2/4</td>
 <td align="left">Web security model.</td>
-<td></td>
+<td><a href="{{ site.url }}/lectures/websecmodel.pdf">slides</a></td>
 <td></td>
 </tr>
 
