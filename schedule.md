@@ -84,5 +84,61 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">5</td>
+<td align="left">2/20</td>
+<td align="left">Computer fraud and abuse.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td align="left">2/25</td>
+<td align="left">Web security: SQL injection and cross-site scripting.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td align="left">2/27</td>
+<td align="left">Intro to symmetric cryptography: stream ciphers, block ciphers and modes, authenticated encryption.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">7</td>
+<td align="left">3/4</td>
+<td align="left">Intro to symmetric cryptography: padding-oracle attacks.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">7</td>
+<td align="left">3/6</td>
+<td align="left">Attacks on TCP/IP.  Denial of service.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td align="left">3/11</td>
+<td align="left">Security of BGP.</td>
+<td></td>
+<td>Homework 2 due</td>
+</tr>
+
+<tr>
+<td align="right">8</td>
+<td align="left">3/13</td>
+<td align="left">Security of DNS.</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
