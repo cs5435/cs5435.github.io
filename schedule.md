@@ -140,5 +140,53 @@ nav: lectures
 <td></td>
 </tr>
 
+<tr>
+<td align="right">9</td>
+<td align="left">3/18</td>
+<td align="left">Introduction to public-key cryptography.</td>
+<td></td>
+<td>Midterm due</td>
+</tr>
+
+<tr>
+<td align="right">9</td>
+<td align="left">3/20</td>
+<td align="left">SSL/TLS and HTTPS.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td align="left">3/25</td>
+<td align="left">PKI and certificates.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">10</td>
+<td align="left">3/27</td>
+<td align="left">Memory corruption attacks.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td align="left">4/8</td>
+<td align="left">Return-oriented programming.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">11</td>
+<td align="left">4/10</td>
+<td align="left">Memory protection techniques.</td>
+<td></td>
+<td>Homework 3 due</td>
+</tr>
+
 </tbody>
 </table>
