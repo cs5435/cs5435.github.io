@@ -175,7 +175,7 @@ nav: lectures
 <tr>
 <td align="right">11</td>
 <td align="left">4/8</td>
-<td align="left">Return-oriented programming.</td>
+<td align="left">Memory protection techniques.</td>
 <td></td>
 <td></td>
 </tr>
@@ -183,9 +183,33 @@ nav: lectures
 <tr>
 <td align="right">11</td>
 <td align="left">4/10</td>
-<td align="left">Memory protection techniques.</td>
+<td align="left">Return-oriented programming.</td>
 <td></td>
 <td>Homework 3 due</td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td align="left">4/15</td>
+<td align="left">Introduction to differential privacy.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td align="left">4/17</td>
+<td align="left">Security and privacy of machine learning.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td align="left">4/22</td>
+<td align="left">Microarchitectural attacks.</td>
+<td></td>
+<td></td>
 </tr>
 
 </tbody>
