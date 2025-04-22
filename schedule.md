@@ -207,6 +207,14 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">4/22</td>
+<td align="left">Program analysis and finding vulnerabilities.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td align="left">4/24</td>
 <td align="left">Microarchitectural attacks.</td>
 <td></td>
 <td></td>
