@@ -241,7 +241,15 @@ nav: lectures
 <td align="left">5/6</td>
 <td align="left">Side channels: acoustics, vibrations, reflections.</td>
 <td></td>
+<td>Homework 4 due</td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left">5/11</td>
+<td align="left"></td>
 <td></td>
+<td>Final due</td>
 </tr>
 
 </tbody>
