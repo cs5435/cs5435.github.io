@@ -207,7 +207,7 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">4/22</td>
-<td align="left">Program analysis and finding vulnerabilities.</td>
+<td align="left">Control-flow integrity.</td>
 <td></td>
 <td></td>
 </tr>
@@ -215,7 +215,31 @@ nav: lectures
 <tr>
 <td align="right">13</td>
 <td align="left">4/24</td>
-<td align="left">Microarchitectural attacks.</td>
+<td align="left">Program analysis and finding vulnerabilities.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td align="left">4/29</td>
+<td align="left">Isolation and confinement.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td align="left">5/1</td>
+<td align="left">Onion routing: Tor, hidden services and "Dark Web".</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td align="right">15</td>
+<td align="left">5/6</td>
+<td align="left">Side channels: acoustics, vibrations, reflections.</td>
 <td></td>
 <td></td>
 </tr>
